@@ -24,6 +24,3 @@ for i in range(1, 3):
 # Prints in one column
     print('\n'.join(str(x) for x in titles))
     sleep(2)
-
-# output to file
-
